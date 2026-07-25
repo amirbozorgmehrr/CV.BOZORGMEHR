@@ -23,7 +23,7 @@ body {
 .page {
   width: 210mm;
   height: 297mm;
-  background-color:#2E2E48;
+  background-color:#27273b;
   box-shadow: 0 10px rgba(0, 0, 0, 0.2);
   display: grid;
   grid-template-columns: 176px 1fr;
@@ -31,7 +31,7 @@ body {
 
 .info-box {
   width: 175px;
-  background-color: #232339;
+  background-color:  rgb(27 27 49);
   padding: 20px 24px;
   
 }
@@ -135,7 +135,7 @@ h4 {
   padding: 15px;
   border: none;
   border-radius: 10px;
-  background-color: #79819A;
+  background-color: rgb(0, 44, 110);
 }
 .grid-item p {
   font-size: 12px;
@@ -211,8 +211,8 @@ button {
 
 .item-skil {
   width: 80px;
-  height: 50px;
-  background-color: #79819A;
+  height: 64px;
+  background-color:rgb(121, 129, 153);
   border: none;
   border-radius: 10px;
   font-size: 12px;
@@ -233,7 +233,7 @@ button {
 progress {
   width: 70%;
   direction: rtl;
-  accent-color: #4c7789;
+  accent-color: #3bb4e8;
 }
 
 .box-skiils2 {
@@ -256,7 +256,7 @@ progress {
 .Education-box {
   width: 362px;
   height: 61px;
-  background-color: #79819A;
+  background-color: rgb(121, 129, 153);
   border-radius: 10px;
   display: flex;
   font-size: 8px;
@@ -323,7 +323,7 @@ progress {
 }
 
 .Tools {
-  width: 362px;
+  width: 500px;
   height: 120px;
   display: flex;
   gap: 10px;
@@ -331,16 +331,16 @@ progress {
 }
 
 .iteme-Tools {
-  width: 86.5px;
-  height: 64px;
-  background-color: #79819A;
+  width: 95px;
+  height: 80px;
+  background-color: rgb(121, 129, 153);
   display: flex;
   align-items: center;
   flex-direction: column;
-  font-size: 9px;
+  font-size: 14px;
   /* gap: 5px; */
   justify-content: space-around;
-  /* padding-top: 10px; */
+   
   color: #E2E6EE;
   border-radius: 10px;
 }
@@ -348,10 +348,11 @@ progress {
 .shcolll {
   width: 400px;
   height: 80px;
-  background-color: #79819A;
+  background-color:  rgb(121, 129, 153);
   border: none;
   padding-right: 20px;
   color: #E2E6EE;
   font-size: 12px;
   border-radius: 20px;
+  margin-top: 20px;
 }
